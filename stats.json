@@ -1,0 +1,9 @@
+{"설명": "상태 0은 미적용, 1은 적용, 최저비는 기본은 0 너무 안사지면 0.1에서 0.2, 최저퍼는 현재 금액이 몇프로 빠진거의 기준 예를들어 -10프로 모두 사겠다면 -10으로 씀,표시는 너프하게 잡기",
+    "상태": 1, 
+    "최저비": 0, 
+    "최저퍼": -20, 
+    "표시최저비" : 0.1, 
+    "표시현재퍼": 1,
+    "적용코인": ["KRW-ETH", "KRW-NEO", "KRW-MTL", "KRW-LTC", "KRW-XRP", "KRW-ETC", "KRW-OMG", "KRW-SNT", "KRW-WAVES", "KRW-XEM", "KRW-QTUM", "KRW-LSK", "KRW-STEEM", "KRW-XLM", "KRW-ARDR", "KRW-KMD", "KRW-ARK", "KRW-STORJ", "KRW-GRS", "KRW-REP", "KRW-EMC2", "KRW-ADA", "KRW-SBD", "KRW-POWR", "KRW-BTG", "KRW-ICX", "KRW-EOS", "KRW-TRX", "KRW-SC", "KRW-IGNIS", "KRW-ONT", "KRW-ZIL", "KRW-POLY", "KRW-ZRX", "KRW-LOOM", "KRW-BCH", "KRW-ADX", "KRW-BAT", "KRW-IOST", "KRW-DMT", "KRW-RFR", "KRW-CVC", "KRW-IQ", "KRW-IOTA", "KRW-MFT", "KRW-ONG", "KRW-GAS", "KRW-UPP", "KRW-ELF", "KRW-KNC", "KRW-BSV", "KRW-THETA", "KRW-EDR", "KRW-QKC", "KRW-BTT", "KRW-MOC", "KRW-ENJ", "KRW-TFUEL", "KRW-MANA", "KRW-ANKR", "KRW-AERGO", "KRW-ATOM", "KRW-TT", "KRW-CRE", "KRW-SOLVE", "KRW-MBL", "KRW-TSHP", "KRW-WAXP", "KRW-HBAR", "KRW-MED", "KRW-MLK", "KRW-STPT", "KRW-ORBS", "KRW-VET", "KRW-CHZ", "KRW-PXL", "KRW-STMX", "KRW-DKA", "KRW-HIVE", "KRW-KAVA", "KRW-AHT", "KRW-LINK", "KRW-XTZ", "KRW-BORA", "KRW-JST", "KRW-CRO", "KRW-TON", "KRW-SXP", "KRW-LAMB", "KRW-HUNT", "KRW-MARO", "KRW-PLA", "KRW-DOT", "KRW-SRM", "KRW-MVL", "KRW-PCI", "KRW-STRAX", "KRW-AQT", "KRW-BCHA", "KRW-GLM", "KRW-QTCON", "KRW-SSX", "KRW-META", "KRW-OBSR", "KRW-FCT2", "KRW-LBC", "KRW-CBK", "KRW-SAND", "KRW-HUM", "KRW-DOGE", "KRW-STRK", "KRW-PUNDIX", "KRW-FLOW", "KRW-DAWN", "KRW-AXS", "KRW-STX"],
+    "매도퍼센트": 21.0
+   }
