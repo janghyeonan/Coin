@@ -5,7 +5,9 @@
 pip install -r requirements.txt
 
 ## 1-1. PyJWT 패키지 설치시 재설치 필요
+
 pip uninstall PyJWT
+
 pip install PyJWT==1.7.1
 
 ## 2.업비트에 가서 엑서스키랑 시크릿키 수령
